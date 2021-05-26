@@ -1,5 +1,0 @@
-Key Take away Module 4
-
-I/O streams are ways for program to give and receive information
-
-Shell: Is a command line interface use to interact with your operating system.
