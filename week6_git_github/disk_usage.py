@@ -21,8 +21,8 @@ def check_disk_usage(disk, min_absolute, min_percent):
 # Check for atleast 2 Gig and 10% free
 
 if not check_disk_usage('/', 2, 10):
-    print("EROOR! Not enough disk space")
+    print("EROOR! Not enough disk space.")
     sys.exit(1)
 
-print("Everything is ok")
+print("Everything is ok.")
 sys.exit(0)
